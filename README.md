@@ -12,6 +12,8 @@ Run SAS code.
 The file name is `food_processing.sas`
 
 ### Run quadratically regularized PCA
+### install packages first
+
 run the Rscript `diet_pca.R`
 
 ### Run PheWAS analysis
